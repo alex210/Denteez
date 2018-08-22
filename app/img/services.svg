@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M3,13V11H16v2Zm0,4V15H16v2Zm0,4V19H16v2ZM7,5V3h9V5ZM3,9V7H16V9ZM18,1.5a.5.5,0,0,0-.5-.5H1.5a.5.5,0,0,0-.5.5v21a.5.5,0,0,0,.5.5h16a.5.5,0,0,0,.5-.5ZM17.5,24H1.5A1.5,1.5,0,0,1,0,22.5V1.5A1.5,1.5,0,0,1,1.5,0h16A1.5,1.5,0,0,1,19,1.5v21A1.5,1.5,0,0,1,17.5,24Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="19" height="24" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>services</title>
+  <g style="clip-path: url(#clip-path)">
+    <g style="clip-path: url(#clip-path-2)">
+      <image width="19" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAYCAIAAACX9VFYAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJUlEQVQ4T2M4fvYmeYiBoIpRnYRUjOokpGJUJyEVozoJqRhMOgHyUVJlCzYggQAAAABJRU5ErkJggg=="/>
+    </g>
+  </g>
+</svg>

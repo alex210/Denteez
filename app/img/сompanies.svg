@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M10.62,6.59V6H12v.59ZM9.62,24v-.58H11.5V24ZM14,20V17h3v3Zm0-6.5v-3h3v3Zm6-6a.5.5,0,0,0-.5-.5h-8a.5.5,0,0,0-.5.5v15a.5.5,0,0,0,.5.5h8a.5.5,0,0,0,.5-.5ZM19.5,24h-8A1.5,1.5,0,0,1,10,22.5V7.5A1.5,1.5,0,0,1,11.5,6h8A1.5,1.5,0,0,1,21,7.5v15A1.5,1.5,0,0,1,19.5,24ZM4,20V17H7v3Zm0-6.5v-3H7v3ZM4,7V4H7V7Zm6-5.5A.5.5,0,0,0,9.5,1h-8a.5.5,0,0,0-.5.5v21a.5.5,0,0,0,.5.5h8a.5.5,0,0,0,.5-.5ZM9.5,24h-8A1.5,1.5,0,0,1,0,22.5V1.5A1.5,1.5,0,0,1,1.5,0h8A1.5,1.5,0,0,1,11,1.5v21A1.5,1.5,0,0,1,9.5,24Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="21" height="24" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>сompanies</title>
+  <g style="clip-path: url(#clip-path)">
+    <g style="clip-path: url(#clip-path-2)">
+      <image width="21" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAYCAIAAACa6yEfAAAACXBIWXMAAAsSAAALEgHS3X78AAAAH0lEQVQ4T2M4fvYmJYiBoIpR/aP6R/WP6h/VPxj1AwCBfMbVtD9y4gAAAABJRU5ErkJggg=="/>
+    </g>
+  </g>
+</svg>

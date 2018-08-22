@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M6.76,1.21a5.56,5.56,0,1,0,5.55,5.56A5.55,5.55,0,0,0,6.76,1.21Zm9,14.61a.57.57,0,0,1-.81,0l-3.93-3.9a6.67,6.67,0,0,1-4.31,1.6,6.83,6.83,0,1,1,5.13-2.41L15.8,15A.58.58,0,0,1,15.8,15.82Z" style="fill: none;clip-rule: evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="16" height="16" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>Search</title>
+  <g style="clip-path: url(#clip-path)">
+    <g style="clip-path: url(#clip-path-2)">
+      <image width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsSAAALEgHS3X78AAAAGklEQVQoU2Po2+NLEmIgqGJUw6gG4tAg1AAAoJGXEK8N0lwAAAAASUVORK5CYII="/>
+    </g>
+  </g>
+</svg>

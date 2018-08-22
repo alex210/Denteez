@@ -1,0 +1,15 @@
+$default-font: "proxima", sans-serif
+$accent: #87b448
+$border: #e0e2e6
+$blackText: #1c2534
+$greyText: #7c8695
+
+@mixin placeholder
+	&::-webkit-input-placeholder
+		@content
+	&:-moz-placeholder
+		@content
+	&::-moz-placeholder
+		@content
+	&:-ms-input-placeholder
+	@content

@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8 5">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M4,5,0,.82.77,0l4,4.18ZM4,5l-.78-.81L7.22,0,8,.81Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="8" height="5" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>arrow</title>
+  <g style="clip-path: url(#clip-path)">
+    <g style="clip-path: url(#clip-path-2)">
+      <image width="8" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAACXBIWXMAAAsSAAALEgHS3X78AAAAEUlEQVQIW2PYsWsfVsRABwkAXYhXgfwfYnMAAAAASUVORK5CYII="/>
+    </g>
+  </g>
+</svg>

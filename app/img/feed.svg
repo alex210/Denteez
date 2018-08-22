@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 23">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M23.57,12.6c-.14.12-.16,0-.34,0a.86.86,0,0,1-.54-.28L12,1,1.73,12c-.27.28-.83.85-1.09.56s-.73-.53-.46-.8L11.54.22A.68.68,0,0,1,12,0a.66.66,0,0,1,.47.22L17,4.8v-3c0-.4.17-.59.53-.59s.5.17.5.57V6l5.87,5.85C24.15,12.13,23.82,12.34,23.57,12.6ZM19.33,23H14.7a.69.69,0,0,1-.69-.68v-4.2H10v4.2a.68.68,0,0,1-.67.68H4.65A.68.68,0,0,1,4,22.32v-9a.57.57,0,0,1,.6-.62c.39,0,.39.24.39.62V22H9V17.63a.71.71,0,0,1,.71-.69h4.66a.69.69,0,0,1,.67.69V22h4V13.41c0-.4.19-.71.58-.71s.43.31.43.71v8.91A.68.68,0,0,1,19.33,23Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="24" height="23" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>feed</title>
+  <g style="clip-path: url(#clip-path)">
+    <g style="clip-path: url(#clip-path-2)">
+      <image width="24" height="23" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAIAAACeQxh6AAAACXBIWXMAAAsSAAALEgHS3X78AAAAKklEQVQ4T2M4fvYmVRADQRVEolGDCKNRgwijUYMIo1GDCKNRgwgjqhkEAPXEO1TVEAedAAAAAElFTkSuQmCC"/>
+    </g>
+  </g>
+</svg>

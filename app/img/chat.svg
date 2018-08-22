@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26 22">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M5.17,8H9.74a.53.53,0,0,1,.51.53v0A.46.46,0,0,1,9.74,9H5.17a.46.46,0,0,1-.51-.44v0A.51.51,0,0,1,5.17,8ZM12,6H5.17a.46.46,0,0,1-.51-.44v0A.54.54,0,0,1,5.17,5H12a.56.56,0,0,1,.51.56v0A.46.46,0,0,1,12,6ZM4.66,11.58v0A.54.54,0,0,1,5.17,11h9.07a.56.56,0,0,1,.51.56v0a.46.46,0,0,1-.51.44H5.17A.46.46,0,0,1,4.66,11.58ZM18,16,18,1H1V16H6.95v2l2-2ZM11,17H9.41c-.69.61-2,1.73-2.67,2.31A.7.7,0,0,1,5.81,19c0-.14,0-1.06,0-2H1.12C.3,17,0,16.68,0,15.85V1.1C0,.27.14,0,1,0H18c.83,0,1,.24,1,1.07V15.22A1.82,1.82,0,0,1,17.39,17H11C10.93,17,10.91,17,11,17Zm14,2H20c0,1,0,2.47,0,2.61s-.68.51-1,.29A11.2,11.2,0,0,1,16.94,19H12c-.83,0-1-.32-1-1.15V17l1,0,0,1h5.92L19,20V18h6V9H19V8H24.5c.83,0,1.5.33,1.5,1.16v8.65C26,18.68,25.83,19,25,19Z" style="fill: none;clip-rule: evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="26" height="22" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>chat</title>
+  <g style="clip-path: url(#clip-path)">
+    <g style="clip-path: url(#clip-path-2)">
+      <image width="26" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAWCAIAAABR6hviAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJklEQVQ4T2P4T1XAQEgBaWDUOPLBqHHkg1HjyAejxpEPRo0jHwAAncutp0+ax0kAAAAASUVORK5CYII="/>
+    </g>
+  </g>
+</svg>
